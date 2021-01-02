@@ -1,0 +1,28 @@
+{
+  "name": "creeper-split",
+  "version": "1.0.0",
+  "description": "a bot for discord .-.",
+  "main": "./src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Creepersplit/Creeper-eris.git"
+  },
+  "keywords": [
+    "moderation",
+    "discord-bot",
+    "utils",
+    "maybe-economy-:thonk:"
+  ],
+  "author": "wayv & irian",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Creepersplit/Creeper-eris/issues"
+  },
+  "homepage": "https://github.com/Creepersplit/Creeper-eris#readme",
+  "dependencies": {
+    "eris": "^0.14.0"
+  }
+}
